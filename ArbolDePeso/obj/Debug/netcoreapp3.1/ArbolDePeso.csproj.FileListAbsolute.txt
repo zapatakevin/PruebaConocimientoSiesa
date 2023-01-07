@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.exe
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.deps.json
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.runtimeconfig.json
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.dll
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\bin\Debug\netcoreapp3.1\ArbolDePeso.pdb
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.AssemblyInfo.cs
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.dll
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.pdb
+C:\Users\kevin\source\repos\CambioDeBase\ArbolDePeso\obj\Debug\netcoreapp3.1\ArbolDePeso.genruntimeconfig.cache
